@@ -1,9 +1,0 @@
-{
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png",
-    "name": "anime-trailer",
-    "displayName": "Anime Trailers from Anilist",
-    "url": "https://raw.githubusercontent.com/notwindstone/anisun-extensions/refs/heads/main/anime-trailers-anilist/bundle.js",
-    "pages": [],
-    "version": "1.0",
-    "author": "windstone"
-}
