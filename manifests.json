@@ -16,5 +16,8 @@
         "version": "semver-1.0.1",
         "author": "windstone",
         "areStyles": true
-    }
+    },
+    {"logo":"","displayName":"Plugin on Vue","name":"vue-example","url":"https://raw.githubusercontent.com/ame-chan-lol/anisun-vue-example-extension/refs/heads/main/dist/bundle.js","pages":[],"author":"ame-chan-lol","version":"1.0","areStyles":false,"isDisabled":false},
+    {"logo":"https://bd.kodik.biz/packages/images/favicon.png","displayName":"Kodik Player","name":"kodik","url":"https://raw.githubusercontent.com/ame-chan-lol/anisun-kodik-extension/refs/heads/main/dist/bundle.js","pages":["kodik"],"author":"ame-chan-lol","version":"1.2","areStyles":false,"isDisabled":false},
+    {"logo":"","displayName":"anilibria","name":"anilibria","url":"https://raw.githubusercontent.com/ame-chan-lol/anisun-anilibria-extension/refs/heads/main/dist/bundle.js","pages":[],"author":"ame-chan-lol","version":"1.0","areStyles":false,"isDisabled":false}
 ]
