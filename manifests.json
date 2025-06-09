@@ -11,6 +11,7 @@
     {
         "logo": "https://i.pinimg.com/474x/08/74/e3/0874e3b6f7e2453435c65f2e6d2d22f0.jpg",
         "name": "nso-ngo-styles",
+        "displayName": "Needy Streamer Overload theme",
         "url": "https://raw.githubusercontent.com/notwindstone/anisun-extensions/refs/heads/main/styles-needy-girl-overdose/bundle.js",
         "pages": [],
         "version": "semver-1.0.1",
