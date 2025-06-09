@@ -18,7 +18,33 @@
         "author": "windstone",
         "areStyles": true
     },
-    {"logo":"","displayName":"Plugin on Vue","name":"vue-example","url":"https://raw.githubusercontent.com/ame-chan-lol/anisun-vue-example-extension/refs/heads/main/dist/bundle.js","pages":[],"author":"ame-chan-lol","version":"1.0","areStyles":false,"isDisabled":false},
-    {"logo":"https://bd.kodik.biz/packages/images/favicon.png","displayName":"Kodik Player","name":"kodik","url":"https://raw.githubusercontent.com/ame-chan-lol/anisun-kodik-extension/refs/heads/main/dist/bundle.js","pages":["kodik"],"author":"ame-chan-lol","version":"1.2","areStyles":false,"isDisabled":false},
-    {"logo":"","displayName":"anilibria","name":"anilibria","url":"https://raw.githubusercontent.com/ame-chan-lol/anisun-anilibria-extension/refs/heads/main/dist/bundle.js","pages":[],"author":"ame-chan-lol","version":"1.0","areStyles":false,"isDisabled":false}
+    {
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png",
+        "displayName": "Extension in Vue",
+        "name": "vue-example",
+        "url": "https://raw.githubusercontent.com/ame-chan-lol/anisun-vue-example-extension/refs/heads/main/dist/bundle.js",
+        "pages": [],
+        "author": "ame-chan-lol",
+        "version": "1.0"
+    },
+    {
+        "logo": "",
+        "displayName": "Kodik Player",
+        "name": "kodik",
+        "url": "https://raw.githubusercontent.com/ame-chan-lol/anisun-kodik-extension/refs/heads/main/dist/bundle.js",
+        "pages": [
+            "kodik"
+        ],
+        "author": "ame-chan-lol",
+        "version": "1.2"
+    },
+    {
+        "logo": "https://static.rustore.ru/imgproxy/-NckbTa_0doic6WxyI60Z3NZ9wwooWjFIYRN66P5lSw/preset:app_card_icon/aHR0cHM6Ly9zdGF0aWMucnVzdG9yZS5ydS9hcGsvMjY3MjA3NjE1L2NvbnRlbnQvSUNPTi81YzUzZWI3NS1hMTAyLTQyN2ItOTQ1MS0yOGFkZTFmN2RkZDEucG5n.webp",
+        "displayName": "anilibria",
+        "name": "anilibria",
+        "url": "https://raw.githubusercontent.com/ame-chan-lol/anisun-anilibria-extension/refs/heads/main/dist/bundle.js",
+        "pages": [],
+        "author": "ame-chan-lol",
+        "version": "1.0"
+    }
 ]
