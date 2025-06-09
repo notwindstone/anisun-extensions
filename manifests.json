@@ -1,8 +1,8 @@
 [
     {
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdEjIsQcn8NwYWhwISL74xXLGtRHeW1Mn67g&s",
         "name": "anime-trailer",
-        "displayName": "Anime Trailers from Anilist",
+        "displayName": "Anime Trailers from YouTube",
         "url": "https://raw.githubusercontent.com/notwindstone/anisun-extensions/refs/heads/main/anime-trailers-anilist/bundle.js",
         "pages": [],
         "version": "1.0",
