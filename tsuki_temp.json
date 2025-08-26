@@ -1,0 +1,24 @@
+[
+  {
+    "id": "kodik",
+    "logo": "https://raw.githubusercontent.com/ame-chan-lol/anisun-kodik-extension/refs/heads/main/kodik-logo.png",
+    "name": "Kodik Player",
+    "url": "https://raw.githubusercontent.com/ame-chan-lol/anisun-kodik-extension/refs/heads/main/dist/bundle.js",
+    "version": "1.0",
+    "authors": ["windstone"],
+    "languages": ["ru"],
+    "categories": ["mal"]
+  },
+  {
+    "id": "essentials",
+    "logo": "https://raw.githubusercontent.com/EssentialsX/Assets/refs/heads/master/logo.svg",
+    "name": "Essentials",
+    "url": "",
+    "version": "1.0.0",
+    "authors": ["windstone", "notwindstone"],
+    "languages": ["en"],
+    "categories": ["cosmetic", "advanced"],
+    "description": "Adds various improvements to the app",
+    "pages": ["/essentials"]
+  }
+]
