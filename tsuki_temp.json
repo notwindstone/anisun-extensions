@@ -20,5 +20,16 @@
     "categories": ["cosmetic", "advanced"],
     "description": "Adds various improvements to the app",
     "pages": ["/essentials"]
+  },
+  {
+    "id": "nyaa-webtor",
+    "logo": "https://tsuki.anime.tatar:8443/ext/logo.svg",
+    "name": "Nyaa (webtor)",
+    "url": "https://tsuki.anime.tatar:8443/ext/nyaa-webtor.js",
+    "version": "1.0.0",
+    "authors": ["windstone"],
+    "languages": ["en"],
+    "categories": ["non-mal"],
+    "description": "Stream anime torrents from nyaa.si through a self-hosted webtor instance. Direct HLS playback with subtitles (hls.js), auto torrent/file picking, resume positions."
   }
 ]
